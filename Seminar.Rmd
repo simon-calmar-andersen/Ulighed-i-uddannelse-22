@@ -3,6 +3,7 @@ title: "BA-seminar Ulighed i uddannelse"
 author: "Simon Calmar Andersen"
 date: "11/11/2020"
 output: html_document
+theme: cosmo
 
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
