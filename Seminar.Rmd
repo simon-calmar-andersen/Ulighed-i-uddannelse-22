@@ -2,8 +2,15 @@
 title: "BA-seminar Ulighed i uddannelse"
 author: "Simon Calmar Andersen"
 date: "11/11/2020"
-output: html_document
-theme: cosmo
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+    number_sections: true
+    theme: united
+      
 
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
@@ -16,7 +23,7 @@ knit: (function(input_file, encoding) {
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduktion
+# Introduktion
 
 
 Et af de måske mest stabile, universelle fænomener i samfundsvidenskaberne er, at børn af lavtuddannede forældre, selv har en højere risiko for at få ingen eller kort uddannelse. Samtidig lever lavtuddannede og deres børn i større grad i fattigdom, med svær overvægt, med stress og depression, og de dør tidligere. Det er et mål for mange velfærdsstater at bryde med denne ulighed ved at give alle børn samme forudsætninger i udgangspunktet–--\textit{levelling the playing field}. Alligevel reproduceres denne ulighed i uddannelse generation efter generation. 
@@ -27,7 +34,7 @@ Et sigte med seminaret er, at deltagerne selv bidrager med ny empirisk viden ent
 
 
 
-### Rammer for faget
+## Rammer for faget
 
 **Fra studieordningen**
 
