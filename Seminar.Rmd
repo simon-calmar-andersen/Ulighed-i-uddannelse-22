@@ -1,0 +1,47 @@
+---
+title: "BA-seminar Ulighed i uddannelse"
+author: "Simon Calmar Andersen"
+date: "11/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduktion
+
+
+Et af de måske mest stabile, universelle fænomener i samfundsvidenskaberne er, at børn af lavtuddannede forældre, selv har en højere risiko for at få ingen eller kort uddannelse. Samtidig lever lavtuddannede og deres børn i større grad i fattigdom, med svær overvægt, med stress og depression, og de dør tidligere. Det er et mål for mange velfærdsstater at bryde med denne ulighed ved at give alle børn samme forudsætninger i udgangspunktet–--\textit{levelling the playing field}. Alligevel reproduceres denne ulighed i uddannelse generation efter generation. 
+
+I dette fag skal vi læse den nyeste forskning i, hvad der kan være årsager til denne ulighed, samt hvad effekten er af forskellige uddannelsespolitikker, som forsøger at udjævne ulighed i uddannelse. Vi skal sammen diskutere og prøve at forstå, hvordan uddannelsespolitikken kan indrettes, så det begrænser ulighed i uddannelse. Det er en problemstilling, som kræver, at vi trækker på teori og forskning fra både psykologi, uddannelsesøkonomi og offentlig forvaltning – herunder teorier om implementering og samproduktion.
+
+Et sigte med seminaret er, at deltagerne selv bidrager med ny empirisk viden enten ved at analysere eksisterende datakilder på nye måder eller ved at indsamle nye data selv. Derfor er det et selvstændigt formål med seminaret at klæde deltagerne på til at kunne gennemføre og afrapportere kvantitative analyser. Metodiske overvejelser og diskussion af, hvordan konkrete problemstillinger kan undersøges i en opgave, vil således stå centralt i hele seminaret. Vi skal sideløbende arbejde med at anvende metoder såsom eksperimenter, regression discontinuity og fixed effects designs. En stor del af seminaret vil fokusere på, hvad der kendetegner en god opgave, og hvordan deltagerne kan omsætte ideer til gode problemstillinger og analysedesign. Endelig vil en del af seminaret fungere som en ramme for den enkeltes opgaveskrivning med vejledning og feedback fra de øvrige deltagere.
+
+
+
+### Rammer for faget
+
+**Fra studieordningen**
+
+* Målet er, at de studerende efter at have deltaget i forelæsninger og holdundervisning kan:
+
+      + redegøre for udvalgte teorier, metoder og sagsforhold inden for faget
+      + sammenligne fagets teorier, metoder og sagsforhold og kan identificere disses forskelle/ligheder og styrker/svagheder.
+      + selvstændigt formulere en problemstilling, der er relateret til fagets teorier, metoder og sagsforhold.
+      + anvende teorier, approaches, metoder, og data, der er relevante for belysningen af den valgte problemstilling.
+      + vurdere frugtbarheden af fagets teorier, metoder og deres anvendelsesområder.
+
+* Bachelorprojektseminaret afsluttes med en hjemmeopgave, hvori der behandles en nærmere afgrænset problemstilling inden for seminarets genstandsfelt. 
+
+* I tilknytning til udarbejdelsen af hjemmeopgaven gives der målrettet indføring i udformning af opgave- og forskningsdesign ligesom der ydes opgavevejledning.
+
+* Der undervises i et omfang svarende til 4 timer om ugen i 11 uger. Hertil kommer individuel vejledning.
+
+* Pensum aftales med underviser og fastlægges i forhold til afhandlingens problemstilling. Det antages dog at have et omfang på 1.200 - 1.700 sider.
+
+* Opgavebesvarelsen må have et omfang på maksimalt 70.000 anslag (inkl. mellemrum), inkl. bilag og noter, men ekskl. indholdsfortegnelse, litteraturliste og engelsk resumé. Resuméet indgår i bedømmelsen. Besvarelser, der overskrider det normerede omfang, vil blive afvist.
+
+
+
+
