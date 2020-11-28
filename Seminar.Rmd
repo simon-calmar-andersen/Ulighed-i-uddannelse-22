@@ -1,6 +1,6 @@
 ---
 title: "BA-seminar Ulighed i uddannelse"
-author: "Simon Calmar Andersen"
+author: "[Simon Calmar Andersen](https://simon-calmar-andersen.github.io/)"
 date: "11/11/2020"
 output: 
   html_document:
