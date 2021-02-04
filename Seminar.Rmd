@@ -127,12 +127,35 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 4.  Hvordan betyder gener og miljøet i hjemmet noget forskelligt for forskellige børn?
 >
-> 5.  Hvilken betydning har den nyeste viden om arv og miljø for, hvordan uddannelsespolitikken må indrettes?
+> 5.  Hvilke typer af soft skills er der - og hvor lette eller svære er de at ændre?
+>
+> 6.  Hvilken betydning har den nyeste viden om arv og miljø, hard and soft skills for, hvordan uddannelsespolitikken må indrettes for at reducere ulighed?
 
 > **Spørgsmål til Metode**
 >
-> 6.  Læs vejledning og installer Zotero på din computer: [link](https://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/)
-> 7.  Læs vejledning og installer Texmaker på din computer: [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT-N-znZHuAhVFPewKHfhOChkQFjARegQIBxAC&url=http%3A%2F%2Fweb.mit.edu%2Frsi%2Fwww%2Fpdfs%2Fnew-latex.pdf&usg=AOvVaw1iun9bT4bEsdplNSe1SlkF)
+> 1.  Læs vejledning og installer Zotero på din computer: [link](https://uclalibrary.github.io/slides/tutorial-zotero-intro.html#/)
+>
+> 2.  Læs vejledning og installer Texmaker på din computer: [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT-N-znZHuAhVFPewKHfhOChkQFjARegQIBxAC&url=http%3A%2F%2Fweb.mit.edu%2Frsi%2Fwww%2Fpdfs%2Fnew-latex.pdf&usg=AOvVaw1iun9bT4bEsdplNSe1SlkF)
+>
+>     I er velkomne til at påbegynde nedenstående opgaver - men jeg forventer ikke at I kan komme igennem hele listen (jeg vil være imponeret hvis nogen gør). Vi hjælper hinanden igennem, når vi mødes.
+>
+> 3.  Vælg en central artikel, som I finder relevant for jeres problemstilling. I kan evt. vælge Cunha og Heckman.
+>
+> 4.  For at komme på omgangshøjde med nyeste forskning: Find artikler som efterfølgende har citeret den centrale artikel.
+>
+> 5.  Vælg en eller flere af disse (vælg nogle der er nye og publiceret godt/citeret ofte).
+>
+> 6.  Læg disse artikler i jeres Zotero-database med brug af knappen i browseren (virker med Firefox og vist også Chrome, bl.a.)
+>
+> 7.  Gem denne Latex-opgave-skabelon på jeres computer i en selvstændig mappe, åbn med TexMaker, og udfyld skabelonen med jeres egne oplysninger.
+>
+> 8.  Eksporter jeres referencer fra Zotero til Latex (se vejledning: <https://libguides.rhul.ac.uk/referencing/Zoterolatex>) og gem filen (.bib) i samme mappe som tex-skabelonen.
+>
+> 9.  Indsæt en reference (se forklaring i tex-skabelonen).
+>
+> 10. Gem en figur (pdf-fil) i samme mappe. Indsæt figuren (se forklaring i tex-skabelonen).
+>
+> 11. Her kan I se et resultat.
 
 # Forældre, coproduction og nudging {data-link="Coproduction og nudging"}
 
