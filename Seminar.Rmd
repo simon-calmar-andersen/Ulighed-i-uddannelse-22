@@ -147,7 +147,7 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 6.  Læg disse artikler i jeres Zotero-database med brug af knappen i browseren (virker med Firefox og vist også Chrome, bl.a.)
 >
-> 7.  Gem denne Latex-opgave-skabelon på jeres computer i en selvstændig mappe, åbn med TexMaker, og udfyld skabelonen med jeres egne oplysninger.
+> 7.  Gem denne Latex-opgave-skabelon på jeres computer i en selvstændig mappe: [Link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Opgaveskabelon.tex). Åbn filen med TexMaker, og udfyld skabelonen med jeres egne oplysninger.
 >
 > 8.  Eksporter jeres referencer fra Zotero til Latex (se vejledning: <https://libguides.rhul.ac.uk/referencing/Zoterolatex>) og gem filen (.bib) i samme mappe som tex-skabelonen.
 >
@@ -155,7 +155,7 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 10. Gem en figur (pdf-fil) i samme mappe. Indsæt figuren (se forklaring i tex-skabelonen).
 >
-> 11. Her kan I se et resultat.
+> 11. Her kan I se et resultat: [Link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Opgaveskabelon_resultat.pdf).
 
 # Forældre, coproduction og nudging {data-link="Coproduction og nudging"}
 
