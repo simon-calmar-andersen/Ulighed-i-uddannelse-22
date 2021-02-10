@@ -137,6 +137,8 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 2.  Læs vejledning og installer Texmaker på din computer: [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjT-N-znZHuAhVFPewKHfhOChkQFjARegQIBxAC&url=http%3A%2F%2Fweb.mit.edu%2Frsi%2Fwww%2Fpdfs%2Fnew-latex.pdf&usg=AOvVaw1iun9bT4bEsdplNSe1SlkF)
 >
+>     (Mac-brugere, skal formentlig også downloade og installerer dette program, for at kunne omdanne Latex-filer til pdf-filer: <http://tug.org/mactex/>)
+>
 >     I er velkomne til at påbegynde nedenstående opgaver - men jeg forventer ikke at I kan komme igennem hele listen (jeg vil være imponeret hvis nogen gør). Vi hjælper hinanden igennem, når vi mødes.
 >
 > 3.  Vælg en central artikel, som I finder relevant for jeres problemstilling. I kan evt. vælge Cunha og Heckman.
