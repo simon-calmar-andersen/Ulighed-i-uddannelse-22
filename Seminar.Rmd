@@ -156,6 +156,10 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 > 10. Gem en figur (pdf-fil) i samme mappe. Indsæt figuren (se forklaring i tex-skabelonen).
 >
 > 11. Her kan I se et resultat: [Link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Opgaveskabelon_resultat.pdf).
+>
+> 12. Stata-do-file, som laver tabel, der kan læses af Latex. [Link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Stata%20eksempel.do)
+>
+> 13. Ny Latex-skabelon, som også har Stata-tabel. [Link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Opgaveskabelon_StataTabel.tex)
 
 # Forældre, coproduction og nudging {data-link="Coproduction og nudging"}
 
