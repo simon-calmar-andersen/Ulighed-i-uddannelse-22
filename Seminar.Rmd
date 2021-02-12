@@ -167,11 +167,23 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 
 > **Spørgsmål til Coproduction og nudging**
 >
-> 1.  Orienter jer i hvordan Aarhus Kommune bruger forældre-læseprogrammet READ: [link](https://www.aarhus.dk/borger/pasning-skole-og-uddannelse/tidlige-indsatser/read-sammen-om-laesning/)
+> 1.  Hvad er potentialet i samproduktion -- forstået som at både lærere og forældre hjælper elever til at
+>     lære (f.eks. at læse)?
+> 2.  Hvad er begrænsningerne/barrierne i fht. at benytte samproduktion?
+> 3.  Inzlicht et al. (2021) diskuterer forskellige teorier om mangel på self-regulation (hvad andre kalder
+>     self-control). Damgaard og Nielsen (2018) præsenterer forskellige typer af nudges. Hvilke typer af nudges kan man forvente vil hjælpe til at overkomme forskellige former for mangel på self-regulation?
+> 4.  Orienter jer i hvordan Aarhus Kommune bruger forældre-læseprogrammet READ: [link](https://www.aarhus.dk/borger/pasning-skole-og-uddannelse/tidlige-indsatser/read-sammen-om-laesning/) Diskuter eksempler på at Aarhus Kommune bruger nudges for at fremme samproduktion i deres materiale om READ -- og hvilke andre nudges de måske med fordel kunne anvende.
+> 5.  Giv forslag til et survey-eksperiment, som I kunne teste på forældre (som I får kontakt til via f.eks. Facebook-grupper) og som kan teste hvordan de umiddelbart reagerer på forskellige nudges.
+> 6.  Hvor stort eller lille er potentialet i nudging som uddannelsespolitisk redskab til at reducere ulighed --
+>     hvor er det størst og mindst?
 
 > **Spørgsmål til Metode**
 >
-> 2.  Gennemfør dataarbejdet i afs 1-4 her: <https://hhsievertsen.github.io/applied_econ_with_r/>. Det er valgfrit om I vil arbejd i Stata eller R.
+> 1.  Læs afs 1 i Hans Sievertsens øvelser og download hans tre datasæt: <https://hhsievertsen.github.io/applied_econ_with_r/>.
+>
+> 2.  Lav opgaver i Stata som beskrevet i denne do-file:
+>
+> 3.  Indsæt resultaterne i Latex med brug af denne skabelon:
 
 # Klassekammerater og peer effects
 
