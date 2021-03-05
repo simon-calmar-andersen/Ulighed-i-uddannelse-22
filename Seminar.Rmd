@@ -188,13 +188,11 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 1.  Forhandlingerne om nye elevfordelingsregler for gymnasierne er blevet udskudt pga Covid-19 (se [link](https://www.uvm.dk/aktuelt/nyheder/uvm/2020/jun/200619-den-midlertidige-loesning-om-elevfordeling-paa-almene-gymnasier-forlaenges)). Det er derfor på høje tid, at I benytter jeres ekspertise på området til at oplyse politikerne og den almene debat!
 >
->     Skriv en avis-kommentar (max en A4-side), hvor I pba Sacerdote (2014) (og gerne anden
->     forskningslitteratur) forklarer a) hvorfor det er så svært metodisk at undersøge peer effects og b) hvad vi ved fra forskningen om peer effects -- med særligt henblik på hvad der er relevant for diskussionen om fordeling af elever (med indvandrerbaggrund) mellem gymnasier.
+>     Skriv en avis-kommentar (max en A4-side), hvor I pba Sacerdote (2014) (og gerne anden forskningslitteratur) forklarer a) hvorfor det er så svært metodisk at undersøge peer effects og b) hvad vi ved fra forskningen om peer effects -- med særligt henblik på hvad der er relevant for diskussionen om fordeling af elever (med indvandrerbaggrund) mellem gymnasier.
 >
 >     Send kommentaren til mig på mail senest tirsdag kl. 12.
 >
->     Formålet med denne øvelse er tosidet: Dels forstår man tit bedre et stof, når man har forklaret
->     det til andre, som ikke har særlige faglige forudsætninger på området. Dels vil I opdage, hvordan dette prægtige BA-seminar allerede efter 4 uger sætter jer i stand til at kvalificere den offentlige debat.
+>     Formålet med denne øvelse er tosidet: Dels forstår man tit bedre et stof, når man har forklaret det til andre, som ikke har særlige faglige forudsætninger på området. Dels vil I opdage, hvordan dette prægtige BA-seminar allerede efter 4 uger sætter jer i stand til at kvalificere den offentlige debat.
 
 > **Opgaver til Metode**
 >
@@ -202,9 +200,33 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 >     Indsæt tabellerne (som produceres med Stata-do-file) i Latex-fil ([link til Latex-skabelon](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Sievertsen_output.tex)) (eller i Word). Skriv en kort tekst, der forklarer, hvad man kan fortolke ud fra de modeller, der er i de to regressions-tabeller.
 
-# Forældre og coproduction
+# 
 
 # Lærere og coping
+
+> **Spørgsmål til peer effects (overvej når I læser - og drøft i læsegrupper)**
+>
+> 1.  Hvilken coping-strategier kan folkeskolelærere anvende for at håndtere politikeres, forældres, elevers og offentlighedens mange forskellige krav til undervisningen?
+>
+> 2.  Hvilken rolle spiller elevers etniske og religiøse baggrund for deres muligheder i skolesystemet ifølge henholdsvis Nicholson-Crotty et al. (2016) og Olsen et al. (2020) -- og hvorfor?
+>
+> 3.  Hvem har indflydelse på, hvor mange elever med særlige behov, som bliver inkluderet i almindelige klasser i folkeskolen? Hvordan stiller forskellige aktører sig i forhold til det politiske mål om, at flere elever skal inkluderes?
+
+> **Opgaver til Metode**
+>
+> 1.  Få Stata til a producere en tabel, der ligner Tabel 5 i dette dokument (link), og indsæt din egen tabel i et dokument (entel Latex eller Word).
+>
+>     HINT 1: Når du laver first-stage modellen skal du betinge på, at der ikke er missing på test-score variablen, hvis du skal have præcis samme koefficienter som i 2SLS-regressionens first stage.
+>
+>     HINT 2: Brug kommandoen ivregress 2sls i Stata for at producere IV-modellen. Skriv help ivregress hvis du skal finde ud af, hvordan du får Stata til at vise first-stage, så du kan sammenligne med din egen producerede first-stage model.
+>
+>     HINT 3: I alle modeller skal bruges klyngekorrigerede (clustered) standard fejl på skoleniveau (Angrist og Pischke forklarer først om det på s. 207). Det gøres ved at skrive regress (...), cluster(school_id) .
+>
+>     HINT 4: Som i uge 4 kan I bruge eststo: til at gemme estimater fra regressionerne og esttab til at producere tabellen. Hvis I vil skrive tekst til hver af modellerne kan det gøres med esttab (...), mtitles("Navn på første model" "Navn på anden model" ...)
+>
+> 2.  Skriv under tabellen en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for letter og summercamp.
+>
+> 3.  Send dit dokument samt den do-file der producerede tabellen til Simon.
 
 # Skoleledere og NPM
 
