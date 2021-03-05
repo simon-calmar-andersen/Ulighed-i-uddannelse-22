@@ -226,7 +226,11 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 > 2.  Skriv under tabellen en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for variablerne "letter" og "summercamp".
 >
-> 3.  Send dit dokument samt den do-file, der producerede tabellen, til Simon senest tirsdag kl. 12.
+> 3.  Skriv også hvad resultaterne viser substantielt om effekten af summercamp (i dette fiktive eksperiment).
+>
+> 4.  Skriv endelig et par sætninger om, hvad der kan true exclusion restriction i dette tilfælde.
+>
+> 5.  Send dit dokument samt den do-file, der producerede tabellen, til Simon senest tirsdag kl. 12.
 
 # Skoleledere og NPM
 
