@@ -214,7 +214,7 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 
 > **Opgaver til Metode**
 >
-> 1.  Få Stata til a producere en tabel, der ligner Tabel 5 i dette dokument (link), og indsæt din egen tabel i et dokument (entel Latex eller Word).
+> 1.  Få Stata til a producere en tabel, der ligner Tabel 5 i dette dokument ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/StataTabel.pdf)), og indsæt din egen tabel i et dokument (entel Latex eller Word).
 >
 >     HINT 1: Når du laver first-stage modellen skal du betinge på, at der ikke er missing på test-score variablen, hvis du skal have præcis samme koefficienter som i 2SLS-regressionens first stage.
 >
@@ -222,11 +222,11 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 >     HINT 3: I alle modeller skal bruges klyngekorrigerede (clustered) standard fejl på skoleniveau (Angrist og Pischke forklarer først om det på s. 207). Det gøres ved at skrive regress (...), cluster(school_id) .
 >
->     HINT 4: Som i uge 4 kan I bruge eststo: til at gemme estimater fra regressionerne og esttab til at producere tabellen. Hvis I vil skrive tekst til hver af modellerne kan det gøres med esttab (...), mtitles("Navn på første model" "Navn på anden model" ...)
+>     HINT 4: Som i uge 4 kan I bruge eststo: til at gemme estimater fra regressionerne og esttab til at producere tabellen. Hvis I vil skrive tekst til hver af modellerne (kolonnerne) i tabellen kan det gøres med esttab (...), mtitles("Navn på første model" "Navn på anden model" ...)
 >
-> 2.  Skriv under tabellen en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for letter og summercamp.
+> 2.  Skriv under tabellen en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for variablerne "letter" og "summercamp".
 >
-> 3.  Send dit dokument samt den do-file der producerede tabellen til Simon.
+> 3.  Send dit dokument samt den do-file, der producerede tabellen, til Simon senest tirsdag kl. 12.
 
 # Skoleledere og NPM
 
