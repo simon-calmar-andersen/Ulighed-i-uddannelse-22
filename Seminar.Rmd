@@ -200,8 +200,6 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 >
 >     Indsæt tabellerne (som produceres med Stata-do-file) i Latex-fil ([link til Latex-skabelon](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Sievertsen_output.tex)) (eller i Word). Skriv en kort tekst, der forklarer, hvad man kan fortolke ud fra de modeller, der er i de to regressions-tabeller.
 
-# 
-
 # Lærere og coping
 
 > **Spørgsmål til peer effects (overvej når I læser - og drøft i læsegrupper)**
