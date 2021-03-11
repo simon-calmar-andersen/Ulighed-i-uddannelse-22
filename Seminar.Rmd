@@ -232,6 +232,22 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 
 # Skoleledere og NPM
 
+> **Spørgsmål til NPM (overvej når I læser - og drøft i læsegrupper)**
+>
+> 1.  New Public Management (NPM) er en samlebetegnelse for mange typer af styringstilgange. Overvej ud fra ugens tekster:
+>
+>     1.  Hvilke undertyper man kan finde finde under den brede NPM-hat?
+>
+>     2.  Hvad er de forskellige typers effekt på elevers læring?
+
+> **Opgaver til Metode**
+>
+> 1.  Se om I kan genskabe resultaterne (tabel og figurer) i dette dokukment (link)
+>
+> 2.  Besvar spørgsmålet i kursiv nederst i dokumentet
+>
+> 3.  Send dokumentet (entel Latex eller Word) til Simon senest tirsdag kl. 12.
+
 # Skoler og implementering
 
 # Udsatte grupper I: I skolen
