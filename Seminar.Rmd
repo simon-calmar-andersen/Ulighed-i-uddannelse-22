@@ -242,7 +242,7 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 
 > **Opgaver til Metode**
 >
-> 1.  Se om I kan genskabe resultaterne (tabel og figurer) i dette dokukment (link)
+> 1.  Se om I kan genskabe resultaterne (tabel og figurer) i dette dokukment ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/RDD_opgaver.pdf))
 >
 > 2.  Besvar spørgsmålet i kursiv nederst i dokumentet
 >
