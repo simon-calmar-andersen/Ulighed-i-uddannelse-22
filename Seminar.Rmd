@@ -250,6 +250,20 @@ Undervisningen ligger onsdage kl. 10.15-14 som regel i bygn. 1323, lok. 118. (I 
 
 # Skoler og implementering
 
+> **Spørgsmål til implementering og opskalering**
+>
+> 1.  Hvilke forklaringer kan der være på, at uddannelsesinterventioner ikke virker, når de skal afprøves i stor skala -- hvad tror du er vigtigste forklaring(er)?
+>
+> 2.  Hvad ser du som de primære forklaringer på, at VIVE's evaluering af folkeskolereformen ikke tyder på, at reformen har medført øget læring eller trivsel for eleverne?
+>
+> 3.  Kan du i din BA-opgave undersøge spørgsmål i relation til enten implementeringen af folkeskolereformen eller til effekten af specifikke elementer i reformen?
+
+> **Opgaver til Metode**
+>
+> 1.  Ugens metodeopgaver er beskrevet i dette pdf-dokument ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/DID_opgaver.pdf)). (Link til tex-fil, der generer dokumentet: [link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/DID_opgaver.tex))
+>
+> 2.  Send besvarelse (entel Latex eller Word) til Simon senest tirsdag kl. 12.
+
 # Udsatte grupper I: I skolen
 
 # Udsatte grupper II: Udenfor for skolen
