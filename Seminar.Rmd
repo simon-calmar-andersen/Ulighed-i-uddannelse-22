@@ -1,6 +1,8 @@
 ---
 title: "BA-seminar Ulighed i uddannelse 2022"
-author: "[Simon Calmar Andersen](https://simon-calmar-andersen.github.io/)"
+author: |
+  | [Simon Calmar Andersen](https://simon-calmar-andersen.github.io/)  
+  | [simon-calmar-andersen.github.io](https://simon-calmar-andersen.github.io/)
 date: "08/09/2021"
 output: 
   html_document:
