@@ -145,15 +145,15 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 > 3.  Vælg en central artikel, som I finder relevant for jeres problemstilling. I kan evt. vælge @cunha_technology_2007.
 >
-> 4.  For at komme på omgangshøjde med nyeste forskning: Find artikler som efterfølgende har citeret den centrale artikel.
+> 4.  For at komme på omgangshøjde med nyeste forskning: Find artikler som efterfølgende har citeret den centrale artikel. Brug [scholar.google.dk](www.scholar.google.dk) eller [Web of Science](www.webofscience.com).
 >
 > 5.  Vælg en eller flere af disse (vælg nogle der er nye og publiceret godt/citeret ofte).
 >
-> 6.  Læg disse artikler i jeres Zotero-database med brug af knappen i browseren (virker med Firefox og vist også Chrome, bl.a.)
+> 6.  Læg disse artikler i jeres Zotero-database med brug af knappen i browseren (virker med Firefox, Chrome m.fl.)
 >
 > 7.  I Overleaf: Tryk på den grønne knap "Nyt Projekt". Vælg "Tomt Projekt", og giv det et navn (f.eks. BA_Ulighed_i\_uddannelse).
 >
-> 8.  Kopier teksten fra denne Latex-opgave-skabelon på jeres computer: [Link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Opgaveskabelon.tex). Indsæt teksten i jeres Overleaf fil (filen hedder main.tex), og udfyld skabelonen med jeres egne oplysninger.
+> 8.  Kopier teksten fra denne Latex-opgave-skabelon på jeres computer: [Link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Opgaveskabelon.tex). Indsæt teksten i jeres Overleaf fil (filen hedder main.tex), og udfyld skabelonen med jeres egne oplysninger. (Gen-)kompiler filen med den grønne knap øverst i midten.
 >
 > 9.  I Overleaf: Opret en ny fil som henter jeres referencer fra Zotero: Vælg ny fil (det lille A4-ikon i øverste venstre hjørne), vælg "From Zotero" kald filen bibliography.bib.
 >
