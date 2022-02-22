@@ -192,8 +192,6 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 >     Skriv en avis-kommentar (max en A4-side), hvor I pba Sacerdote (2014) (og gerne anden forskningslitteratur) forklarer a) hvorfor det er så svært metodisk at undersøge peer effects og b) hvad vi ved fra forskningen om peer effects -- med særligt henblik på hvad der er relevant for diskussionen om fordeling af elever (med indvandrerbaggrund) mellem gymnasier.
 >
->     Send kommentaren til mig på mail senest tirsdag kl. 12.
->
 >     Formålet med denne øvelse er tosidet: Dels forstår man tit bedre et stof, når man har forklaret det til andre, som ikke har særlige faglige forudsætninger på området. Dels vil I opdage, hvordan dette prægtige BA-seminar allerede efter 4 uger sætter jer i stand til at kvalificere den offentlige debat.
 
 > **Opgaver til Metode**
@@ -201,6 +199,8 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 > 1.  Kør denne Stata do-file ([link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/stata_uge4.do)). Forstå hvad der sker i hver linje. Det nye i denne uge starter i linje 72.
 >
 >     Indsæt tabellerne (som produceres med Stata-do-file) i Latex-fil ([link til Latex-skabelon](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse/main/docs/Sievertsen_output.tex)) (eller i Word). Skriv en kort tekst, der forklarer, hvad man kan fortolke ud fra de modeller, der er i de to regressions-tabeller.
+>
+>     **Både kommentaren til peer effects, do-fil og besvarelse af opgave i metode bedes læsegrupperne sende til mig senest fredag kl. 10.**
 
 # Lærere og coping
 
