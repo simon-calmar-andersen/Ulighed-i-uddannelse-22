@@ -216,7 +216,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 
 > **Opgaver til Metode**
 >
-> 1.  Få Stata til a producere en tabel, der ligner Tabel 5 i dette dokument ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/StataTabel.pdf)), og indsæt din egen tabel i et dokument (entel Latex eller Word).
+> 1.  Få Stata til a producere en tabel, der ligner Tabel på slide \#11 i denne præsentation ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Præsentation.pdf)), og indsæt jeres egen tabel i en præsentation (i Latex kaldet en "beamer"). I kan bruge skabelonen i dette ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Præsentationsskabelon.pdf)).
 >
 >     HINT 1: Når du laver first-stage modellen skal du betinge på, at der ikke er missing på test-score variablen, hvis du skal have præcis samme koefficienter som i 2SLS-regressionens first stage.
 >
@@ -226,13 +226,13 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 >     HINT 4: Som i uge 4 kan I bruge eststo: til at gemme estimater fra regressionerne og esttab til at producere tabellen. Hvis I vil skrive tekst til hver af modellerne (kolonnerne) i tabellen kan det gøres med esttab (...), mtitles("Navn på første model" "Navn på anden model" ...)
 >
-> 2.  Skriv under tabellen en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for variablerne "letter" og "summercamp".
+> 2.  Skriv på en ny slide en forklaring på, hvad tabellen viser, og hvordan sammenhængen/forholdet er mellem koefficienterne (og standard fejlene) for variablerne "letter" og "summercamp".
 >
 > 3.  Skriv også hvad resultaterne viser substantielt om effekten af summercamp (i dette fiktive eksperiment).
 >
 > 4.  Skriv endelig et par sætninger om, hvad der kan true exclusion restriction i dette tilfælde.
 >
-> 5.  Send dit dokument samt den do-file, der producerede tabellen, til Simon senest tirsdag kl. 12.
+> 5.  Send dit dokument samt den do-file, der producerede tabellen, til Simon senest fredag kl. 10.
 
 # Skoleledere og NPM
 
