@@ -216,7 +216,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 
 > **Opgaver til Metode**
 >
-> 1.  Få Stata til a producere en tabel, der ligner Tabel på slide \#11 i denne præsentation ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Præsentation.pdf)), og indsæt jeres egen tabel i en præsentation (i Latex kaldet en "beamer"). I kan bruge skabelonen i dette ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/Præsentationsskabelon.pdf)).
+> 1.  Få Stata til a producere en tabel, der ligner Tabel på slide \#11 i denne præsentation ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse-22/raw/main/docs/Pr%C3%A6sentation.pdf)), og indsæt jeres egen tabel i en præsentation (i Latex kaldet en "beamer"). I kan bruge skabelonen i dette ([link](https://raw.githubusercontent.com/simon-calmar-andersen/Ulighed-i-uddannelse-22/main/docs/Pr%C3%A6sentationsskabelon.tex)).
 >
 >     HINT 1: Når du laver first-stage modellen skal du betinge på, at der ikke er missing på test-score variablen, hvis du skal have præcis samme koefficienter som i 2SLS-regressionens first stage.
 >
