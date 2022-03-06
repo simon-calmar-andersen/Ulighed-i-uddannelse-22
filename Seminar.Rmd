@@ -250,7 +250,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 > 2.  Besvar spørgsmålet i kursiv nederst i dokumentet
 >
-> 3.  Send dokumentet (entel Latex eller Word) til Simon senest tirsdag kl. 12.
+> 3.  Send dokumentet (entel Latex eller Word) til Simon senest fredag kl. 10.
 
 # Skoler og implementering
 
@@ -264,7 +264,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 > 1.  Ugens metodeopgaver er beskrevet i dette pdf-dokument ([link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/DID_opgaver.pdf)). (Link til tex-fil, der generer dokumentet: [link](https://github.com/simon-calmar-andersen/Ulighed-i-uddannelse/raw/main/docs/DID_opgaver.tex))
 >
-> 2.  Send besvarelse (entel Latex eller Word) til Simon senest tirsdag kl. 12.
+> 2.  Send besvarelse (entel Latex eller Word) til Simon senest fredag kl. 10.
 
 # Udsatte grupper I: I skolen
 
@@ -294,7 +294,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 >     3.  Er der tegn på publikationsbias?
 >
-> 5.  Send besvarelse (entel Latex eller Word) til Simon senest tirsdag (d. 6/4) kl. 12. Særligt spændende resultater vil blive delt med holdet onsdag :-)
+> 5.  Send besvarelse (entel Latex eller Word) til Simon senest fredag kl. 10. Særligt spændende resultater vil blive delt med holdet mandag :-)
 
 # Udsatte grupper II: Udenfor for skolen
 
