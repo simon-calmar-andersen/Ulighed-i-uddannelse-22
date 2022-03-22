@@ -284,7 +284,7 @@ Undervisningen ligger mandage kl. 10.15-14 som regel i bygn. 1325, lok. 136. (I 
 >
 > 2.  Download datasættet og importer det i Stata (vi har tidligere set, hvordan man importerer Excel- eller CSV-filer).
 >
-> 3.  Brug Stata 16's meta-analyse pakke, som er beskrevet her: <https://www.stata.com/new-in-stata/meta-analysis/>. (Hvis ikke I har Stata 16 kan I måske arbejde sammen med en som har.)
+> 3.  Brug Stata 16's meta-analyse pakke, som er beskrevet her: <https://www.stata.com/features/overview/meta-analysis/>. (Hvis ikke I har Stata 16 kan I måske arbejde sammen med en som har.)
 >
 > 4.  Vælg selv en meta-analyse-problemstilling som I vil besvare. Inspiration kan findes i @cogaltay_introduction_2015 og på Stata-hjemmesiden (se link under pkt 3.) Eksempler kan være:
 >
